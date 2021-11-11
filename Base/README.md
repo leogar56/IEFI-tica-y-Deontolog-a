@@ -14,5 +14,5 @@
 - Links a archivos pdf: por lo que podemos entender, los documentos pdf suelen tener problemas de accesibilidad. Entendemos también la explicación para solucionarlo, pero no sabemos llevarlo a cabo desde el editor de texto.
 
 *Aclaración:* Profe, no me di cuenta de sacar captura a la descripción de cada error o al proceso de corrección.
-![Captura de errores antes de empezar a corregir] (/Base/img/sumario antes.jpg)
-![Captura luego de corregir los errores] (/Base/img/sumario después.jpg)
+![Captura de errores antes de empezar a corregir] ( IEFI-tica-y-Deontolog-a/Base/img/sumario antes.jpg )
+![Captura luego de corregir los errores] ( IEFI-tica-y-Deontolog-a/Base/img/sumario después.jpg )
