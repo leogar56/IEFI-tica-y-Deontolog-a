@@ -15,5 +15,5 @@
 
 *Aclaración:* Profe, no me di cuenta de sacar captura a la descripción de cada error o al proceso de corrección.
 
-![Captura de errores antes de empezar a corregir] (IEFI-tica-y-Deontolog-a/Base/img/sumario1.jpg)
-![Captura luego de corregir los errores] (IEFI-tica-y-Deontolog-a/Base/img/sumario2.jpg)
+![Captura de errores antes de empezar a corregir](IEFI-tica-y-Deontolog-a/Base/img/sumario1.jpg)
+![Captura luego de corregir los errores](IEFI-tica-y-Deontolog-a/Base/img/sumario2.jpg)
